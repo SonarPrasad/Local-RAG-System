@@ -42,4 +42,4 @@ Ensure you have the following libraries installed to run the notebook:
     - Note: This model is used given the available 4GB GPU VRAM Alternative models can be explored for experimentation.
 
 ## Acknowledgments
-This work is inspired by the book "Reinforcement Learning: An Introduction" by Richard S. Sutton and Andrew G. Barto, which served as a reference for understanding the concepts of reinforcement learning.
+This work utilizes concepts from the book *"Reinforcement Learning: An Introduction"* by Richard S. Sutton and Andrew G. Barto, which served as a valuable reference for understanding certain foundational ideas in the context of building a local Retrieval-Augmented Generation (RAG) system. The implementation leverages embeddings and language models to enhance information retrieval and generation tasks.
